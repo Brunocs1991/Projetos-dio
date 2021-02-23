@@ -21,3 +21,10 @@ arquitetura MVC. Você ira baixar uma aplicação completa feita por pelo expert
 implementar a parte de testes desta aplicação. Veja na teoria e na prática os principais conceitos 
 de testes para aumentar a qualidade de entrega de seus projetos com testes de unidade, integrados 
 e TDD.
+
+----------------------------------------------------------------------------------------------------
+DIO.Api => Projeto 04 do bootcamp LocalizaLabs .NET Developer
+Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB, que também 
+criaremos em tempo real no service cloud Mongo Atlas. Vamos repassar brevemente os conceitos 
+básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua 
+aplicabilidade.
